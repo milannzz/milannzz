@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m always working on something cool ...
-- Feel free to contact me.
-- <!-- Actual text -->
+-     Feel free to contact me.
 <!--
 **milannzz/milannzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
